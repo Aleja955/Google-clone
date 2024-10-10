@@ -17,3 +17,6 @@ Puedes acceder al proyecto desde este [enlace de GitHub Pages](https://aleja955.
 1. Clona el repositorio:
    ```bash
    git clone https://github.com/Aleja955/Google-clone.git
+
+
+
