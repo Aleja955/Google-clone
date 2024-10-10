@@ -11,7 +11,7 @@ Este proyecto es una replica de la página principal de Google hecha con HTML y 
 - Diseño responsivo.
 
 ## Cómo usarlo
-Puedes acceder al proyecto desde este [enlace de GitHub Pages](https://tuusuario.github.io/calculadora-js).
+Puedes acceder al proyecto desde este [enlace de GitHub Pages](https://aleja955.github.io/Google-clone/).
 
 ## Instalación local
 1. Clona el repositorio:
